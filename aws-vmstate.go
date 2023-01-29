@@ -85,7 +85,7 @@ func main() {
 				{
 					Name: aws.String("tag:POC"),
 					Values: []string{
-						"GolangOperator",
+						"PandurangGolangOperator",
 					},
 				},
 			},
